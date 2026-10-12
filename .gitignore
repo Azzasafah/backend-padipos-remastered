@@ -1,0 +1,13 @@
+# Keep environment variables out of version control
+node_modules
+.env
+.env.*
+logs/
+*.log
+dist/
+uploads/
+
+# AI and Agent rules
+AGENTS.md
+agents.md
+.agents/
